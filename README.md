@@ -34,17 +34,7 @@ The CAD model of the 3D printer will be available in the `CAD_Model/` directory.
 
 A detailed project report will be located in the `Documentation/` directory. This report will cover the design considerations, component selection, assembly process, calibration procedures, and performance testing of the 3D printer. It will also delve into the specific customizations made to the Marlin firmware and their impact on the printer's operation.
 
-## Contributing
 
-(Placeholder - Add guidelines for contributions if this is an open-source project)
-
-## License
-
-(Placeholder - Add license information)
-
-## Contact
-
-(Placeholder - Add contact information or links to project maintainers)
 
 ---
 
